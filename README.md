@@ -26,3 +26,5 @@ Author: Tanmay Bhurkunde
 Topic: Java Concurrency / Mutex / ReentrantLock
 
 result (link) :  https://drive.google.com/file/d/1_1BDDhIxeLbAoDc97oUFdlu6HKJ2Jd-8/view?usp=sharing
+
+The output may vary due to thread scheduling and context switching, but the final result remains correct due to proper locking.
